@@ -1,0 +1,6 @@
+echo 500.0f 10.00f 5000.0f %.2f
+pitch 1.0f 0.5f 2.0f %.2f
+fader 0.0f -0.80f 10.0f %.2f
+tremolo 5.0f 0.1f 20.0f %.2f
+distortion 0.5f 0.0f 1.0f %.2f
+parameq 8000.0f 20.0f 22000.0f %.2f

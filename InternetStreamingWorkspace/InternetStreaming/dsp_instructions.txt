@@ -1,0 +1,6 @@
+Press `W` to enable/disable Echo.
+Press `E` to enable/disable Pitch.
+Press `R` to enable/disable Fader.
+Press `T` to enable/disable Tremolo.
+Press `Y` to enable/disable Distortion.
+Press `U` to enable/disable Parameq.
